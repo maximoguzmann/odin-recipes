@@ -9,6 +9,9 @@ The recipes are Ramen, Soba and Takoyaki. Japanese Cuisine that now you can enjo
     - MakushiSan.
 
 _Recipes taken from:_
-**https://thecozycook.com/homemade-ramen/**
-**https://www.acouplecooks.com/soba-noodles/**
-**https://www.justonecookbook.com/takoyaki-recipe/**
+
+>https://thecozycook.com/homemade-ramen/
+
+>https://www.acouplecooks.com/soba-noodles/
+
+>https://www.justonecookbook.com/takoyaki-recipe/
